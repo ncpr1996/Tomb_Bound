@@ -59,7 +59,7 @@ A challenging platformer game where you navigate through a dangerous tomb filled
 
 ## Development
 
-The game is built using Python and Pygame, focusing on smooth gameplay and an engaging user experience. The modular code structure makes it easy to extend with new features.
+The game is built using Python and Pygame, focusing on smooth gameplay and an engaging user experience. The modular code structure makes it easy to extend with new features. Development was assisted by Amazon Q Developer, which helped with code generation, optimization, and debugging.
 
 ### Adding New Features
 
