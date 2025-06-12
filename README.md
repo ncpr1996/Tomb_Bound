@@ -30,7 +30,7 @@ A challenging platformer game where you navigate through a dangerous tomb filled
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/Tomb_Bound.git
+   git clone https://github.com/ncpr1996/Tomb_Bound.git
    cd Tomb_Bound
    ```
 
@@ -73,9 +73,10 @@ To add new features:
 
 ## Credits
 
-- Game Development: Your Name
-- Art Assets: Game Art Sources
-- Sound Effects: Audio Libraries
+- Game Development: N Chandra Prakash Reddy, Tirupati, Andhra Pradesh, India
+- Art Assets: Craftpix
+- Sound Effects: Pixabay
+- Development Assistance: Amazon Q Developer
 
 ## License
 
