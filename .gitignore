@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Development/temporary files
+tomb_bound.py.backup
+tomb_bound_step1.py
+tomb_bound_fixed.py
+simple_game.py
+fix_black_screen.py
+menu_fix.py
+debug_settings.py
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Local configuration
+.env
