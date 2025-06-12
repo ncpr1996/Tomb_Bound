@@ -2,11 +2,12 @@
 
 A challenging platformer game where you navigate through a dangerous tomb filled with traps and obstacles. Test your reflexes and timing as you explore ancient ruins and avoid deadly hazards.
 
-![Tomb Bound Game](https://via.placeholder.com/800x400?text=Tomb+Bound+Screenshot)
+![Tomb Bound Game](/screenshot/Tomb_Bound.png)
 
 ## Game Features
 
 - Dynamic platformer gameplay with increasing difficulty
+- Player has three health points - lose one when hit by a trap
 - Animated title screen and game over effects
 - Score tracking and high score system
 - Customizable audio settings
@@ -40,7 +41,7 @@ A challenging platformer game where you navigate through a dangerous tomb filled
 
 3. Run the game:
    ```
-   python tomb_bound.py
+   python3 tomb_bound.py
    ```
 
 ## Project Structure
@@ -81,5 +82,3 @@ To add new features:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-*Note: Remember to replace "YOUR_USERNAME" with your actual GitHub username when you push this to GitHub.*
