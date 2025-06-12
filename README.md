@@ -36,7 +36,7 @@ A challenging platformer game where you navigate through a dangerous tomb filled
 
 2. Install the required dependencies:
    ```
-   pip install pygame
+   sudo apt-get install python3-pygame or pip3 install pygame
    ```
 
 3. Run the game:
